@@ -68,6 +68,6 @@ span.aside {
     font-size: 0.5em;
 }
 
-.reveal div.table{
-  font-size: 0.5em;
+.reveal .slides{
+  font-size: 50%;
 }
