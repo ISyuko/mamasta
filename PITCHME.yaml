@@ -1,4 +1,4 @@
-theme : moon
+theme : sky
 theme-override : assets/css/PITCHME.css
 background : assets/images/wallpaper.jpg
 logo : assets/images/logo.png
@@ -6,4 +6,5 @@ transition : fade
 published : true
 slide-number  : true
 highlite  : monokai-sublime
+footnote  : " Sample slide ”
 
