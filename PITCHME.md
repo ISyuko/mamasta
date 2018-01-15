@@ -19,7 +19,14 @@
 
 ---
 
-### スライド３
+### 集計コード
+
+```sql
+select *
+from db_comment
+where ;
+
+```
 
 ---
 
