@@ -14,7 +14,7 @@
 +++
 
 画像の埋め込み
-![alt](img/test.png)
+![alt](test.png)
 
 ###　スライド３
 
